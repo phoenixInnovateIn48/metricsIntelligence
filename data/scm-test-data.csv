@@ -1,0 +1,11 @@
+activity_code,txn_amount,user_code,device_mode_type,device_OS,KPI ID,Value
+1110,1500,1,NA,IOS,1,1
+1111,1501,2,NA,IOS,1,0
+1112,1502,3,NA,IOS,1,0
+1113,1503,4,NA,IOS,1,0
+1110,1504,5,NA,IOS,1,1
+1115,1505,6,NA,IOS,1,0
+1116,1506,7,NA,Android,1,0
+1117,1507,8,NA,Android,1,0
+1110,1508,9,NA,Android,1,1
+1119,1509,10,NA,Android,1,0
